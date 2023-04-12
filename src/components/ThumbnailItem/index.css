@@ -1,0 +1,18 @@
+li {
+  margin-right: 8px;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.image {
+  width: 100%;
+  opacity: 0.5;
+}
+
+.selected {
+  opacity: 1;
+}
